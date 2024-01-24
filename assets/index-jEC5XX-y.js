@@ -214,7 +214,7 @@ Error generating stack: `+i.message+`
   padding: ${e=>e.theme.header.padding};
 `,Q1=de.img`
 padding: 24px 0;
-`,K1="/assets/bx-logo-8xf97tCh.svg",Y1=()=>j.jsx(W1,{children:j.jsx(Q1,{src:K1,alt:"Buildbox web challenge"})}),G1=r1`
+`,K1="/%3Crepo%3E/assets/bx-logo-8xf97tCh.svg",Y1=()=>j.jsx(W1,{children:j.jsx(Q1,{src:K1,alt:"Buildbox web challenge"})}),G1=r1`
   * {
     padding: 0;
     margin: 0;
